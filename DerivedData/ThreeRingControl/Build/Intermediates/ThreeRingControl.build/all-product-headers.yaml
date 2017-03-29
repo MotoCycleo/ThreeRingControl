@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/humin/Downloads/projects/iOS/Framework folder/ThreeRingControl/DerivedData/ThreeRingControl/Build/Products/Debug-iphoneos/ThreeRingControl.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ThreeRingControl-Swift.h",
+          'external-contents': "/Users/humin/Downloads/projects/iOS/Framework folder/ThreeRingControl/DerivedData/ThreeRingControl/Build/Products/Debug-iphoneos/ThreeRingControl.framework/Headers/ThreeRingControl-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "ThreeRingControl.h",
+          'external-contents': "/Users/humin/Downloads/projects/iOS/Framework folder/ThreeRingControl/ThreeRingControl/ThreeRingControl.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/humin/Downloads/projects/iOS/Framework folder/ThreeRingControl/DerivedData/ThreeRingControl/Build/Products/Debug-iphoneos/ThreeRingControl.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/humin/Downloads/projects/iOS/Framework folder/ThreeRingControl/DerivedData/ThreeRingControl/Build/Intermediates/ThreeRingControl.build/Debug-iphoneos/ThreeRingControl.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

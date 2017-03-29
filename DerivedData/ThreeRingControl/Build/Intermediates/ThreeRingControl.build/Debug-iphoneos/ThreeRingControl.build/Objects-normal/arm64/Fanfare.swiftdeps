@@ -1,0 +1,272 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Fanfare"
+provides-nominal:
+- "C16ThreeRingControl7Fanfare"
+provides-member:
+- ["C16ThreeRingControl7Fanfare", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "NSNotification"
+- !private "NotificationCenter"
+- !private "Bundle"
+- "StringLiteralType"
+- !private "OperationQueue"
+- "Fanfare"
+- !private "String"
+- !private "AllRingsCompletedNotification"
+- !private "AssignmentPrecedence"
+- !private "RingCompletedNotification"
+- "AVAudioPlayer"
+depends-member:
+- !private ["CSo13AVAudioPlayer", "deinit"]
+- !private ["CSo13AVAudioPlayer", "init"]
+- !private ["CSo13AVAudioPlayer", "numberOfLoops"]
+- !private ["CSo13AVAudioPlayer", "play"]
+- !private ["CSo13AVAudioPlayer", "prepareToPlay"]
+- !private ["Ps9AnyObject", "AVAudioPlayer"]
+- !private ["Ps9AnyObject", "AllRingsCompletedNotification"]
+- !private ["Ps9AnyObject", "Bundle"]
+- ["Ps9AnyObject", "Fanfare"]
+- !private ["Ps9AnyObject", "NSNotification"]
+- !private ["Ps9AnyObject", "Name"]
+- !private ["Ps9AnyObject", "NotificationCenter"]
+- !private ["Ps9AnyObject", "OperationQueue"]
+- !private ["Ps9AnyObject", "RingCompletedNotification"]
+- !private ["Ps9AnyObject", "addObserver"]
+- !private ["Ps9AnyObject", "allRingSound"]
+- !private ["Ps9AnyObject", "default"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "main"]
+- !private ["Ps9AnyObject", "numberOfLoops"]
+- !private ["Ps9AnyObject", "play"]
+- !private ["Ps9AnyObject", "playSound"]
+- !private ["Ps9AnyObject", "player"]
+- !private ["Ps9AnyObject", "prepareToPlay"]
+- !private ["Ps9AnyObject", "removeObserver"]
+- !private ["Ps9AnyObject", "ringSound"]
+- !private ["Ps9AnyObject", "url"]
+- ["Ps9AnyObject", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["Sb", "deinit"]
+- !private ["CSo6Bundle", "deinit"]
+- !private ["CSo6Bundle", "init"]
+- !private ["CSo6Bundle", "url"]
+- !private ["Ps7CVarArg", "Name"]
+- !private ["Ps7CVarArg", "addObserver"]
+- !private ["Ps7CVarArg", "default"]
+- ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "main"]
+- !private ["Ps7CVarArg", "numberOfLoops"]
+- !private ["Ps7CVarArg", "play"]
+- !private ["Ps7CVarArg", "prepareToPlay"]
+- !private ["Ps7CVarArg", "removeObserver"]
+- !private ["Ps7CVarArg", "url"]
+- ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "Name"]
+- !private ["Ps28CustomDebugStringConvertible", "addObserver"]
+- !private ["Ps28CustomDebugStringConvertible", "default"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "main"]
+- !private ["Ps28CustomDebugStringConvertible", "numberOfLoops"]
+- !private ["Ps28CustomDebugStringConvertible", "play"]
+- !private ["Ps28CustomDebugStringConvertible", "prepareToPlay"]
+- !private ["Ps28CustomDebugStringConvertible", "removeObserver"]
+- !private ["Ps28CustomDebugStringConvertible", "url"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "Name"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "addObserver"]
+- !private ["Ps23CustomStringConvertible", "default"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "main"]
+- !private ["Ps23CustomStringConvertible", "numberOfLoops"]
+- !private ["Ps23CustomStringConvertible", "play"]
+- !private ["Ps23CustomStringConvertible", "prepareToPlay"]
+- !private ["Ps23CustomStringConvertible", "removeObserver"]
+- !private ["Ps23CustomStringConvertible", "url"]
+- !private ["Ps9Equatable", "Name"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "addObserver"]
+- !private ["Ps9Equatable", "default"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "main"]
+- !private ["Ps9Equatable", "numberOfLoops"]
+- !private ["Ps9Equatable", "play"]
+- !private ["Ps9Equatable", "prepareToPlay"]
+- !private ["Ps9Equatable", "removeObserver"]
+- !private ["Ps9Equatable", "url"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- ["Ps32ExpressibleByStringInterpolation", "init"]
+- ["Ps26ExpressibleByStringLiteral", "init"]
+- ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- ["C16ThreeRingControl7Fanfare", "AVAudioPlayer"]
+- !private ["C16ThreeRingControl7Fanfare", "AllRingsCompletedNotification"]
+- !private ["C16ThreeRingControl7Fanfare", "Bundle"]
+- ["C16ThreeRingControl7Fanfare", "Fanfare"]
+- !private ["C16ThreeRingControl7Fanfare", "NSNotification"]
+- !private ["C16ThreeRingControl7Fanfare", "NotificationCenter"]
+- !private ["C16ThreeRingControl7Fanfare", "OperationQueue"]
+- !private ["C16ThreeRingControl7Fanfare", "RingCompletedNotification"]
+- !private ["C16ThreeRingControl7Fanfare", "String"]
+- ["C16ThreeRingControl7Fanfare", "allRingSound"]
+- ["C16ThreeRingControl7Fanfare", "deinit"]
+- ["C16ThreeRingControl7Fanfare", "init"]
+- !private ["C16ThreeRingControl7Fanfare", "playSound"]
+- ["C16ThreeRingControl7Fanfare", "playSoundsWhenReady"]
+- !private ["C16ThreeRingControl7Fanfare", "player"]
+- ["C16ThreeRingControl7Fanfare", "ringSound"]
+- ["C16ThreeRingControl7Fanfare", "sharedInstance"]
+- !private ["Ps8Hashable", "Name"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "addObserver"]
+- !private ["Ps8Hashable", "default"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "main"]
+- !private ["Ps8Hashable", "numberOfLoops"]
+- !private ["Ps8Hashable", "play"]
+- !private ["Ps8Hashable", "prepareToPlay"]
+- !private ["Ps8Hashable", "removeObserver"]
+- !private ["Ps8Hashable", "url"]
+- !private ["Si", "deinit"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- ["Ps25LosslessStringConvertible", "init"]
+- ["Ps10MirrorPath", "init"]
+- !private ["PSo8NSCoding", "Name"]
+- ["PSo8NSCoding", "init"]
+- !private ["PSo9NSCopying", "Name"]
+- ["PSo9NSCopying", "init"]
+- ["PSo16NSMutableCopying", "init"]
+- !private ["CSo14NSNotification", "Name"]
+- !private ["CSo8NSObject", "Name"]
+- !private ["CSo8NSObject", "addObserver"]
+- !private ["CSo8NSObject", "default"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "main"]
+- !private ["CSo8NSObject", "numberOfLoops"]
+- !private ["CSo8NSObject", "play"]
+- !private ["CSo8NSObject", "prepareToPlay"]
+- !private ["CSo8NSObject", "removeObserver"]
+- !private ["CSo8NSObject", "url"]
+- !private ["PSo16NSObjectProtocol", "Name"]
+- !private ["PSo16NSObjectProtocol", "addObserver"]
+- !private ["PSo16NSObjectProtocol", "default"]
+- ["PSo16NSObjectProtocol", "deinit"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "main"]
+- !private ["PSo16NSObjectProtocol", "numberOfLoops"]
+- !private ["PSo16NSObjectProtocol", "play"]
+- !private ["PSo16NSObjectProtocol", "prepareToPlay"]
+- !private ["PSo16NSObjectProtocol", "removeObserver"]
+- !private ["PSo16NSObjectProtocol", "url"]
+- ["PSo14NSSecureCoding", "init"]
+- ["CSo8NSString", "init"]
+- ["VCSo14NSNotification4Name", "deinit"]
+- !private ["VCSo14NSNotification4Name", "init"]
+- !private ["CSo18NotificationCenter", "addObserver"]
+- !private ["CSo18NotificationCenter", "default"]
+- ["CSo18NotificationCenter", "deinit"]
+- !private ["CSo18NotificationCenter", "removeObserver"]
+- ["CSo14OperationQueue", "deinit"]
+- !private ["CSo14OperationQueue", "main"]
+- ["Sq", "deinit"]
+- !private ["Ps16RawRepresentable", "init"]
+- ["SS", "deinit"]
+- ["SS", "init"]
+- ["Ps16TextOutputStream", "init"]
+- ["Ps20TextOutputStreamable", "init"]
+- !private ["V10Foundation3URL", "deinit"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "Name"]
+- ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "Name"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "addObserver"]
+- !private ["Ps9_Hashable", "default"]
+- ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "main"]
+- !private ["Ps9_Hashable", "numberOfLoops"]
+- !private ["Ps9_Hashable", "play"]
+- !private ["Ps9_Hashable", "prepareToPlay"]
+- !private ["Ps9_Hashable", "removeObserver"]
+- !private ["Ps9_Hashable", "url"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Vs26_OptionalNilComparisonType", "deinit"]
+- !private ["Ps20_SwiftNewtypeWrapper", "init"]
+depends-nominal:
+- !private "CSo13AVAudioPlayer"
+- "Ps9AnyObject"
+- !private "Sb"
+- !private "CSo6Bundle"
+- "Ps7CVarArg"
+- "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps29CustomPlaygroundQuickLookable"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- "Ps32ExpressibleByStringInterpolation"
+- "Ps26ExpressibleByStringLiteral"
+- "Ps33ExpressibleByUnicodeScalarLiteral"
+- "C16ThreeRingControl7Fanfare"
+- "Ps8Hashable"
+- !private "Si"
+- "Ps25LosslessStringConvertible"
+- "Ps10MirrorPath"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "PSo16NSMutableCopying"
+- !private "CSo14NSNotification"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- "CSo8NSString"
+- "VCSo14NSNotification4Name"
+- "CSo18NotificationCenter"
+- "CSo14OperationQueue"
+- "Sq"
+- !private "Ps16RawRepresentable"
+- "SS"
+- "Ps16TextOutputStream"
+- "Ps20TextOutputStreamable"
+- !private "V10Foundation3URL"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- "Ps34_ExpressibleByBuiltinStringLiteral"
+- "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- "Ps21_ObjectiveCBridgeable"
+- !private "Vs26_OptionalNilComparisonType"
+- !private "Ps20_SwiftNewtypeWrapper"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/humin/Downloads/projects/iOS/Framework folder/ThreeRingControl/ThreeRingControl/ThreeRingControl.h"
+- "/Users/humin/Downloads/projects/iOS/Framework folder/ThreeRingControl/DerivedData/ThreeRingControl/Build/Intermediates/ThreeRingControl.build/Debug-iphoneos/ThreeRingControl.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
+interface-hash: "f62d228e0509f6f908208c2fa8aa076e"
